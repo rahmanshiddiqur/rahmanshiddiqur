@@ -1,14 +1,14 @@
 
 # Hi there 👋, Im Rahman Shiddiqur
 ## MS Student at UESTC in China.
-### Web Developer -Front-end developer
+### A Web Developer 
 
 
 I am highly motivated to leverage my analytical expertise and scientific foundation to tackle challenging problems. 
 
 Skills:  JS /  HTML / CSS/ REACT / Bootstrap / Python/ Data Analysis/ Microsoft Office
 
-- 🌱 I’m currently learning how to straggle more 
+- 🌱 I’m currently learning how to struggle more 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: shawonrohman78@gmail.com 
 
