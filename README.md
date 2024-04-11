@@ -1,6 +1,6 @@
 
 # Hi there 👋, Im Rahman Shiddiqur
-#### MS Student at UESTC in China.
+## MS Student at UESTC in China.
 ### Web Developer -Front-end developer
 
 
