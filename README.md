@@ -1,5 +1,5 @@
-https://www.facebook.com/photo/?fbid=3626400724288132&set=a.1734844173443806
-### Hi there 👋, Im Rahman Shiddiqur
+
+# Hi there 👋, Im Rahman Shiddiqur
 #### MS Student at UESTC in China.
 ### Web Developer -Front-end developer
 
