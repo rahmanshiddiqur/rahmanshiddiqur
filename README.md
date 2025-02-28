@@ -1,15 +1,15 @@
 
 # Hi there 👋, Im Rahman Shiddiqur
-## MS Student at UESTC in China.
-### A Web Developer 
+## MS Student at UESTC in China
+### Research Interest: Network Intrusion Detection, Deep Learning, Network Security
 
 
 I am highly motivated to leverage my analytical expertise and scientific foundation to tackle challenging problems. 
 
-Skills:  JS /  HTML / CSS/ REACT / Bootstrap / Python/ Data Analysis/ Microsoft Office
+Skills:  Python/ IDS/ vulnerability Scanner/ Network Troubleshooting/ Firewall Configuration/ Penetration Testing/ Risk Assessment and Management/ Data Analysis/ Microsoft Office
 
 - 🌱 I’m currently learning how to struggle more 
-- 💬 Ask me about Web Development  
+- 💬 Ask me about Network Security
 - 📫 How to reach me: shawonrohman78@gmail.com 
 
 
